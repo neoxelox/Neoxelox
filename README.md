@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+    <br>
+    Hi there 👋, I'm Alex!
+    <br>
+</h1>
+<h3 align="center">
+    I roll my own 🎲
+</h3>
 
-<!--
-**Neoxelox/Neoxelox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- **📑 [`CV`](https://neoxelox.com) 📅 `20` 📍`Barcelona`**
+- **📚 `Computer Science at FIB`**
+- **👨‍💻 `Backend Engineer at Square`**
+- **🌱 `Currently learning everything!`**
+- **❤️ `I love all technologies`**
+- **📫 [`alex@neoxelox.com`](alex@neoxelox.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=neoxelox&count_private=true&include_all_commits=true&show_icons=true&hide=issues,contribs" alt="Alex's Github Stats" title="Alex's Github Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoxelox&layout=compact&hide=css" alt="Top Languages" title="Top Languages"/>
+</p>
