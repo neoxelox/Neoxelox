@@ -20,5 +20,5 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=neoxelox&count_private=true&include_all_commits=true&show_icons=true&hide=issues,contribs" alt="Alex's Github Stats" title="Alex's Github Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoxelox&layout=compact&langs_count=4" alt="Top Languages" title="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoxelox&layout=compact&langs_count=4&hide=java" alt="Top Languages" title="Top Languages"/>
 </p>
