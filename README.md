@@ -13,7 +13,8 @@
 - **📚 `Computer Science at FIB`**
 - **👨‍💻 `Backend Engineer at Square`**
 - **🌱 `Currently learning everything!`**
-- **❤️ `I love all technologies`**
+- **❤️  `I love all technologies`**
+- **🎁 `Help me through → [`ko-fi.com/neoxelox`](ko-fi.com/neoxelox)`**
 - **📫 [`alex@neoxelox.com`](alex@neoxelox.com)**
 
 ---
