@@ -14,8 +14,9 @@
 - **👨‍💻 `Backend Engineer at Square`**
 - **🌱 `Currently learning everything!`**
 - **❤️  `I love all technologies`**
-- **🎁 [`ko-fi.com/neoxelox`](https://ko-fi.com/neoxelox)**
 - **📫 [`alex@neoxelox.com`](alex@neoxelox.com)**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U766M03)
 
 ---
 
