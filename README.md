@@ -21,5 +21,5 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoxelox&layout=compact&langs_count=4&hide=java" alt="Top Languages" title="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoxelox&layout=compact&langs_count=4&hide=java,g-code,html" alt="Top Languages" title="Top Languages"/>
 </p>
