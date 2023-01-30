@@ -9,7 +9,7 @@
 
 ---
 
-- **📑 [`CV`](https://neoxelox.com)&nbsp;&nbsp;&nbsp;📅 `21`&nbsp;&nbsp;📍`Barcelona`**
+- **📑 [`CV`](https://neoxelox.com)&nbsp;&nbsp;&nbsp;📅 `22`&nbsp;&nbsp;📍`Barcelona`**
 - **📚 `Computer Science at FIB`**
 - **👨‍💻 `Backend Engineer at Block`**
 - **🌱 `Currently learning everything!`**
