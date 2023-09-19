@@ -9,4 +9,4 @@
 
 ---
 
-**📑 [`CV`](https://arn.sh)**&nbsp;&nbsp;&nbsp;**📅 `23`**&nbsp;&nbsp;**📍`Barcelona`**&nbsp;&nbsp;**📫 [`me@arn.sh`](me@arn.sh)**&nbsp;&nbsp;**📚 `Computer Engineering at FIB`**&nbsp;&nbsp;**💡 `Soon...?`**&nbsp;&nbsp;**❤️ `Making stuff that people uses is my passion`**&nbsp;&nbsp;**☕️ [`Buy me a Ko-fi`](https://ko-fi.com/U6U766M03)**
+<p align="center"><strong>📑 <a href="https://arn.sh"><code>CV</code></a></strong>&nbsp;&nbsp;&nbsp;<strong>📅 <code>23</code></strong>&nbsp;&nbsp;<strong>📍<code>Barcelona</code></strong>&nbsp;&nbsp;<strong>📫 <a href="me@arn.sh"><code>me@arn.sh</code></a></strong>&nbsp;&nbsp;<strong>📚 <code>Computer Engineering at FIB</code></strong>&nbsp;&nbsp;<strong>💡 <code>Soon...?</code></strong>&nbsp;&nbsp;<strong>❤️ <code>Making stuff that people uses is my passion</code></strong>&nbsp;&nbsp;<strong>☕️ <a href="https://ko-fi.com/U6U766M03"><code>Buy me a Ko-fi</code></a></strong></p>
